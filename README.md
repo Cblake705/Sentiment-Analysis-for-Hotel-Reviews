@@ -4,5 +4,6 @@ Created and implemented a Machine Learning model using Logistic Regression and a
 
 
 Ultimately, due to size of the database, and hardware restrictions, used linear regression to create a test model, resulting in 62% accuracy.
-This shows the model even using a poor model is properly working, and with enough time to train the model(20 hours+) using logistic regression,
-you would result in a succesful model of over 90%.
+This shows the model even using a poor model is properly working. With enough time to train the model(20 hours+) using logistic regression, you would result in a succesful model of over 90%.
+
+Lastly, I also write about the potential for stochastic gradient decent.
